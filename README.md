@@ -1,4 +1,4 @@
 # Simulating the early mpox outbreak: Dynamic-spread assessment via vSEIR
 modelling and kink detection in disease transmission
 the csv file is the dataset being used
-The data and code is presubmitted to Chaos Solitions & Fractals.
+The data and code is presubmitted to journal of medical virology.
